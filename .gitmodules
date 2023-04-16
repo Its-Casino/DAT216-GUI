@@ -1,0 +1,6 @@
+[submodule "GUI_labb_2"]
+	path = GUI_labb_2
+	url = git@github.com:huml4n/GUI_labb_2.git
+[submodule "gui-project"]
+	path = gui-project
+	url = git@github.com:Its-Casino/gui-project.git
